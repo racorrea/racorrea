@@ -3,7 +3,7 @@
 
 # Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Roddy Correa and I'm a software developer/DevOps engineer. I'm from Ecuador, living in Loja and currently working at UTPL.
+My name is Roddy Correa and I'm a software developer/DevOps/Cloud engineer. I'm from Ecuador, living in Loja and currently working at Kushki.
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/racorrea13)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/roddy-andr%C3%A9s-correa-tenesaca-a5808b6a/)
